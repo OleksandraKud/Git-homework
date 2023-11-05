@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  color: antiquewhite;
+  background-color: #000033;
+  font-family: Roboto, sans-serif;
+}
+a {
+  color: antiquewhite;
+}
+
+.header {
+  padding: 16px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.list a {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.main {
+  padding: 16px;
+}
